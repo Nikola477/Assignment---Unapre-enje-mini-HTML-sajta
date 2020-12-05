@@ -1,0 +1,52 @@
+body {
+    background-image: url("back.jpg");
+    background-size: cover;
+}
+header {
+    text-align: center;
+    font-style: italic;
+}
+nav {
+    float: left;
+    height: 1000px;
+}
+nav ul li {
+    padding: 20px 3px;
+    border-style: solid;
+    background-color: darkgray;
+    font-family: serif;
+    font-size: 1.3em;
+    color: black;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 800;
+}
+
+section {
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    font-size: 1.1em;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    border: 1px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+th {
+    padding: 16px;
+    text-transform: uppercase;
+    background-color: dimgray;
+    border: 1px solid white;
+}
+td {
+    padding: 14px;
+    border: 1px solid wheat;
+    
+}
